@@ -1,0 +1,44 @@
+{
+  "clients": [
+    {
+      "name": "Luis",
+      "company": "doclaag",
+      "email": "contacto@doclaag.com",
+      "phone": "123456",
+      "notes": "Notas de este nuevo componente",
+      "id": 1
+    },
+    {
+      "name": "Juan",
+      "company": "doclaag",
+      "email": "contacto@doclaag.com",
+      "phone": "123456",
+      "notes": "Notas de este nuevo componente",
+      "id": 2
+    },
+    {
+      "name": "José",
+      "company": "doclaag",
+      "email": "contacto@doclaag.com",
+      "phone": "123456",
+      "notes": "Notas de este nuevo componente",
+      "id": 3
+    },
+    {
+      "name": "Jack",
+      "company": "doclaag",
+      "email": "jack@correo.com",
+      "phone": "12345678",
+      "notes": "Notas",
+      "id": 4
+    },
+    {
+      "name": "Tony",
+      "company": "doclaag",
+      "email": "tony@correo.com",
+      "phone": "12343456",
+      "notes": "Notas",
+      "id": 5
+    }
+  ]
+}
